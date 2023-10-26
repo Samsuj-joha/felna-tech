@@ -10,6 +10,9 @@ const Main = () => {
     <section>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, animi!</p>
     </section>
+    <section>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, voluptates.</p>
+    </section>
       
       
     </>
